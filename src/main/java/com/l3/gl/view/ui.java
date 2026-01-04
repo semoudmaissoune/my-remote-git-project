@@ -1,9 +1,9 @@
 package com.l3.gl.view;
 import javax.swing.*;
-public class Ui {
+public class ui {
 
 private JFrame frame;
-public Ui() {
+public ui() {
 
 frame = new JFrame("Simple UI");
 frame.setSize(400, 300);
@@ -21,7 +21,7 @@ frame.setVisible(true);
 }
 public static void main(String[] args) {
 
-Ui ui = new Ui();
+ui ui = new ui();
 ui.show();
 
 }
