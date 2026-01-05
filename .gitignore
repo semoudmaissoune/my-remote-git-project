@@ -1,1 +1,5 @@
-/target/
+target/
+*.class
+.project
+.classpath
+>>>>>>> 299eb0a (Initial commit: Setup Maven project)
